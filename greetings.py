@@ -13,5 +13,5 @@ def banner():
 if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
-    # Prints a hello from my GitHub username
+    # "venomade" is my GitHub username
     print("Hello from venomade!")
